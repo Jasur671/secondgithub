@@ -13,7 +13,6 @@ public class Problem2 {
             Scanner sc = new Scanner(new File("input.txt"));
 
 
-
             PrintWriter pw = new PrintWriter(new File("output.txt"));
 
             long A = sc.nextLong();
