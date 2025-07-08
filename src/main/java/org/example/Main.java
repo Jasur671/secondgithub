@@ -1,14 +1,12 @@
 package org.example;
 
-import java.util.Arrays;
 import java.util.Scanner;
-
+import java.util.Arrays;
+import java.util.*;
+import java.io.*;
 
 class Main {
-    public static void main(String[] args) {
-        for (int i = 1; i < 20; i += 2) {
-            System.out.print(i + ", ");
 
-        }
+
     }
-}
+
