@@ -9,7 +9,7 @@ public class Problem2 {
 
 
     public class Main {
-        public static void main(String[] args)throws IOException {
+        public static void main(String[] args) throws IOException {
             Scanner sc = new Scanner(new File("input.txt"));
 
 
